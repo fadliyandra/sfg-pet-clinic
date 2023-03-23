@@ -1,4 +1,4 @@
-package fadli.springframwork.sfgpetclinic.model;
+package fadli.springframework.sfgpetclinic.model;
 
 import java.time.LocalDate;
 

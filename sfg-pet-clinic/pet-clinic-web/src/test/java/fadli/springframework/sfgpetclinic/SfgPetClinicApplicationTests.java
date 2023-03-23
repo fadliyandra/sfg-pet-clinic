@@ -1,4 +1,4 @@
-package fadli.springframwork.sfgpetclinic;
+package fadli.springframework.sfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
