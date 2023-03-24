@@ -33,21 +33,21 @@
 	</properties>
 
 	<dependencies>
-<!--		<dependency>-->
-<!--			<groupId>javax.xml.bind</groupId>-->
-<!--			<artifactId>jaxb-api</artifactId>-->
-<!--			<version>${jaxb.version}</version>-->
-<!--		</dependency>-->
-<!--		<dependency>-->
-<!--			<groupId>com.sun.xml.bind</groupId>-->
-<!--			<artifactId>jaxb-core</artifactId>-->
-<!--			<version>${jaxb.version}</version>-->
-<!--		</dependency>-->
-<!--		<dependency>-->
-<!--			<groupId>com.sun.xml.bind</groupId>-->
-<!--			<artifactId>jaxb-impl</artifactId>-->
-<!--			<version>${jaxb.version}</version>-->
-<!--		</dependency>-->
+		<dependency>
+			<groupId>javax.xml.bind</groupId>
+			<artifactId>jaxb-api</artifactId>
+			<version>${jaxb.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-core</artifactId>
+			<version>${jaxb.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-impl</artifactId>
+			<version>${jaxb.version}</version>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -95,9 +95,9 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<developerConnection>https://github.com/fadliyandra/sfg-pet-clinic.git</developerConnection>
-		<tag>HEAD</tag>
-	</scm>
+	<!--    <scm>-->
+	<!--        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>-->
+	<!--      <tag>HEAD</tag>-->
+	<!--  </scm>-->
 
 </project>
